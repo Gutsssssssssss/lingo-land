@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cute Cat in Cute Banana
+* source:	https://sketchfab.com/3d-models/cute-cat-in-cute-banana-fb3eee24c9fc422ea256b95d5148931f
+* author:	SOBOL (https://sketchfab.com/sbl-cool)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cute Cat in Cute Banana" (https://sketchfab.com/3d-models/cute-cat-in-cute-banana-fb3eee24c9fc422ea256b95d5148931f) by SOBOL (https://sketchfab.com/sbl-cool) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,53 @@
+spring:
+  datasource:
+    url: ${POSTGRES_URL}
+    username: ${POSTGRES_USERNAME}
+    password: ${POSTGRES_PASSWORD}
+    driver-class-name: org.postgresql.Driver
+
+  data:
+    redis:
+      host: ${REDIS_HOST}
+      port: ${REDIS_PORT}
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+
+  jwt:
+    secret: ${JWT_SECRET}
+
+  threads:
+    virtual:
+      enabled: true
+
+logging:
+  level:
+    root: debug
+
+openvidu:
+  url: ${OPENVIDU_URL}
+  secret: ${OPENVIDU_SECRET}
+
+# 이미지 저장 시 요청 크기 조절
+server:
+  tomcat:
+    max-http-form-post-size: 5MB
+
+kakao:
+  api:
+    key: ${KAKAO_REST_KEY}
+
+frontend-url: ${FRONTEND_URL}
+
+image:
+  store-url: ${STORE_PATH}
+
+ollama:
+  api-url: ${OLLAMA_URL}
+
+openai:
+  api:
+    key: ${CHAT_GPT_KEY}

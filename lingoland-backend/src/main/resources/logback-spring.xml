@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <include resource="org/springframework/boot/logging/logback/defaults.xml" />
+    <!-- 스프링 프로파일을 사용할 수 있도록 설정 -->
+    <springProfile name="default">
+        <!-- 특정 패키지 로거 설정 (필요에 따라 추가) -->
+        <logger name="com.ssafy.a603.lingoland" level="debug" additivity="false">
+            <appender-ref ref="THREAD_CONSOLE"/>
+        </logger>
+
+        <!-- 루트 로거 설정 -->
+        <root level="info">
+            <appender-ref ref="CONSOLE"/>
+        </root>
+    </springProfile>
+
+    <springProfile name="dev">
+    </springProfile>
+
+    <springProfile name="prod">
+        <!-- 특정 패키지 로거 설정 (필요에 따라 추가) -->
+        <logger name="com.ssafy.a603.lingoland" level="debug" additivity="false">
+            <appender-ref ref="THREAD_CONSOLE"/>
+        </logger>
+
+        <!-- 루트 로거 설정 -->
+        <root level="info">
+            <appender-ref ref="CONSOLE"/>
+        </root>
+    </springProfile>
+
+    <property name="LOG_PATTERN" value="%d{yyyy-MM-dd HH:mm:ss.SSS} %clr(%5level) [%15.15t] [%X{request_id}] %clr(%-40.40logger{39}){cyan} : %m%n%wEx"/>
+
+    <!-- appender -->
+    <appender name="THREAD_CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>${LOG_PATTERN}</pattern>
+        </encoder>
+    </appender>
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>${CONSOLE_LOG_PATTERN}</pattern>
+        </encoder>
+    </appender>
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logs/app.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>logs/app.%d{yyyy-MM-dd}.log</fileNamePattern>
+            <maxHistory>100</maxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>${LOG_PATTERN}</pattern>
+        </encoder>
+    </appender>
+
+</configuration>

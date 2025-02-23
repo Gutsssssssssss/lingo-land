@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cute Penguin fully rigged
+* source:	https://sketchfab.com/3d-models/cute-penguin-fully-rigged-72491359f60045a3aebda0eb3e1daf59
+* author:	KiwiRenders (https://sketchfab.com/KiwiRenders)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cute Penguin fully rigged" (https://sketchfab.com/3d-models/cute-penguin-fully-rigged-72491359f60045a3aebda0eb3e1daf59) by KiwiRenders (https://sketchfab.com/KiwiRenders) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

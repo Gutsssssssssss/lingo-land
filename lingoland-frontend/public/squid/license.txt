@@ -1,0 +1,11 @@
+Model Information:
+* title:	squid
+* source:	https://sketchfab.com/3d-models/squid-410650f804a04f37820dfde80647ca41
+* author:	carlin.chu (https://sketchfab.com/carlin.chu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "squid" (https://sketchfab.com/3d-models/squid-410650f804a04f37820dfde80647ca41) by carlin.chu (https://sketchfab.com/carlin.chu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

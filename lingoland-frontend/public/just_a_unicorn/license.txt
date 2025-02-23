@@ -1,0 +1,11 @@
+Model Information:
+* title:	Just a Unicorn!
+* source:	https://sketchfab.com/3d-models/just-a-unicorn-8d0ae2d4b1ac4d1f8ab2adcdcc01cc8f
+* author:	nottodayrender (https://sketchfab.com/nottodayrender)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Just a Unicorn!" (https://sketchfab.com/3d-models/just-a-unicorn-8d0ae2d4b1ac4d1f8ab2adcdcc01cc8f) by nottodayrender (https://sketchfab.com/nottodayrender) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

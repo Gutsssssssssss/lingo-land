@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cute Chick
+* source:	https://sketchfab.com/3d-models/cute-chick-623cc9c755b0417f920037866065efcb
+* author:	iclartworks (https://sketchfab.com/iclartworks)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cute Chick" (https://sketchfab.com/3d-models/cute-chick-623cc9c755b0417f920037866065efcb) by iclartworks (https://sketchfab.com/iclartworks) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

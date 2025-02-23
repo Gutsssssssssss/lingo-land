@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hermes Shoe
+* source:	https://sketchfab.com/3d-models/hermes-shoe-a6e726bb9dcd4bed80389b11ec080f26
+* author:	HuntedGaming (https://sketchfab.com/HuntedGaming)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hermes Shoe" (https://sketchfab.com/3d-models/hermes-shoe-a6e726bb9dcd4bed80389b11ec080f26) by HuntedGaming (https://sketchfab.com/HuntedGaming) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,8 @@
+Model Information:
+* title:	Mouse
+* source:	https://sketchfab.com/3d-models/mouse-bf516bd5a93341b194976f6f391d1e30
+* author:	charliecatling (https://sketchfab.com/charliecatling)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

@@ -1,0 +1,53 @@
+@import "./base.css";
+@import url("https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Gowun+Dodum&family=Hahmlet:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gowun+Batang&display=swap");
+.gowun-batang-regular {
+    font-family: "Gowun Batang", serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: large;
+}
+
+
+.gamja-flower-regular {
+    font-family: "Gamja Flower", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: x-large;
+}
+#app {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    font-weight: normal;
+    font-family: "Gamja Flower", sans-serif;
+}
+
+a,
+.green {
+    text-decoration: none;
+    color: hsla(160, 100%, 37%, 1);
+    transition: 0.4s;
+    padding: 3px;
+}
+
+@media (hover: hover) {
+    a:hover {
+        background-color: hsla(160, 100%, 37%, 0.2);
+    }
+}
+
+@media (min-width: 1024px) {
+    body {
+        display: flex;
+        place-items: center;
+        font-family: "Gamja Flower", sans-serif;
+    }
+
+    #app {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        padding: 0 2rem;
+        font-family: "Gamja Flower", sans-serif;
+    }
+}

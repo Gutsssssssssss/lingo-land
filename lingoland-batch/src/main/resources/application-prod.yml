@@ -1,0 +1,42 @@
+spring:
+  datasource:
+    url: ${POSTGRES_URL}
+    username: postgres
+    password: ssafy
+    driver-class-name: org.postgresql.Driver
+
+  server:
+    port: 8081
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+
+  logging:
+    level:
+      org:
+        hibernate:
+          type:
+            descriptor:
+              sql: trace
+
+      reactor.core.publisher: DEBUG
+      io.r2dbc.postgresql: DEBUG
+      org.springframework.data.r2dbc: DEBUG
+
+  http:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+
+  batch:
+    jdbc:
+      initialize-schema: never
+
+  chatGPTKey: ${CHAT_GPT_KEY}
+  executionCnt: ${EXECUTION_CNT}
